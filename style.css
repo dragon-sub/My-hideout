@@ -12,3 +12,10 @@ html, body {
   height: auto;
   display: block;
 }
+
+.bannerText {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
