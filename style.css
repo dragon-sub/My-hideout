@@ -3,3 +3,8 @@ html {
   font-weight: 400;
   font-style: nomal;
 }
+
+.banner {
+  width: auto;
+  height: auto;
+}
