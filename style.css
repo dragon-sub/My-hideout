@@ -2,6 +2,8 @@ html {
   font-family: "Noto Serif JP", serif;
   font-weight: 400;
   font-style: nomal;
+  margin: 0;
+  padding: 0;
 }
 
 .banner {
