@@ -12,3 +12,10 @@ html, body {
   font-size: 64px;
   margin: 40px;
 }
+
+.banner {
+  position: fixed;
+  width: auto;
+  height: 100px;
+  background-color: #ddd;
+}
