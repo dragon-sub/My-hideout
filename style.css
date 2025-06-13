@@ -8,7 +8,7 @@ html, body {
 }
 
 .banner {
-  width: auto;
+  width: 100vw;
   height: auto;
   display: block;
 }
