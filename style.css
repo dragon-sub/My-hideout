@@ -15,7 +15,8 @@ html, body {
 
 .banner {
   position: fixed;
-  width: auto;
+  width: 100vw;
   height: 100px;
   background-color: #ddd;
+  font-size: 40px;
 }
