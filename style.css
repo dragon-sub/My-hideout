@@ -23,4 +23,5 @@ html, body {
   background-size: cover;
   justify-content: center;
   background-position: center;
+  background-image: url('banner.png');
 }
