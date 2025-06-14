@@ -20,4 +20,7 @@ html, body {
   height: auto;
   align-items: center;
   display: flex;
+  background-size: cover;
+  justify-content: center;
+  background-position: center;
 }
