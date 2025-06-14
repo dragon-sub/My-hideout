@@ -11,6 +11,8 @@ html, body {
 .bannerText {
   font-size: 32px;
   position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .banner {
