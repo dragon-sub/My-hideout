@@ -36,3 +36,9 @@ html, body {
   background-color: #ffdede;
   color: #ff7878;
 }
+
+.pageTitle {
+  font-size: 32px;
+  font-weight: 700;
+  margin: 10px;
+}
