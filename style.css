@@ -18,12 +18,12 @@ html, body {
   font-size: 30px;
   display: flex;
   align-items: center;
+  gap: 0px;
 }
 
 .bannerText {
   height: 60px;
   padding-left: 30px;
   padding-right: 30px;
-  display: flex;
   align-items: center;
 }
