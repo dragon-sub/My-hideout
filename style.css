@@ -54,3 +54,8 @@ html, body {
   background-color: #fff;
   height: auto;
 }
+
+.boxTitle {
+  font-size: 20px;
+  font-weight: 500;
+}
