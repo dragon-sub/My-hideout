@@ -6,12 +6,12 @@ html, body {
   padding: 0;
   text-align: center;
   overflow-x: hidden;
-  background-color: #ffdede
+  background-color: #ffdede;
   color: black;
 }
 
 .banner {
   height: 60px;
   width: 100vw;
-  background-color: #fff
+  background-color: #fff;
 }
