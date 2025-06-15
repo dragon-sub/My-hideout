@@ -17,4 +17,5 @@ html, body {
   text-align: left;
   font-size: 30px;
   display: flex;
+  align-items: center;
 }
