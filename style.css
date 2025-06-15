@@ -49,7 +49,7 @@ html, body {
 
 .box {
   width: 70vw;
-  border: 2px;
+  border-weight: 2px;
   border-color: #ffdede;
   background-color: #fff;
   height: auto;
