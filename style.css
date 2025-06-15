@@ -15,7 +15,7 @@ html, body {
   width: 100vw;
   background-color: #fff;
   text-align: left;
-  font-size: 30px;
+  font-size: 20px;
   display: flex;
   align-items: center;
   gap: 0px;
@@ -23,8 +23,8 @@ html, body {
 
 .bannerText {
   height: 60px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
   display: flex;
   align-items: center;
 }
