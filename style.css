@@ -53,6 +53,7 @@ html, body {
   border-color: #ffdede;
   background-color: #fff;
   height: auto;
+  margin: 0 auto;
 }
 
 .boxTitle {
