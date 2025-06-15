@@ -25,5 +25,5 @@ html, body {
   padding-left: 30px;
   padding-right: 30px;
   display: flex;
-  align-items: flex;
+  align-items: center;
 }
