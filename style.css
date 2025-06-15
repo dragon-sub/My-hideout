@@ -19,3 +19,9 @@ html, body {
   display: flex;
   align-items: center;
 }
+
+.bannerText {
+  height: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
