@@ -59,3 +59,14 @@ html, body {
   font-size: 20px;
   font-weight: 500;
 }
+
+.box2Enc {
+  display: flex;
+}
+
+.box2 {
+  width: 150px;
+  height: 150px;
+  border: 2px solid #ff9999;
+  margin: 10px;
+}
