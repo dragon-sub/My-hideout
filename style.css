@@ -65,6 +65,7 @@ html, body {
   display: flex;
   text-align: center;
   justify-content: center;
+  max-width: 960px;
 }
 
 .box2 {
@@ -76,7 +77,7 @@ html, body {
 }
 
 .box2Img {
-  width: 180px;
+  width: 280px;
   height: auto;
   margin: 10px;
 }
