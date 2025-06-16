@@ -74,3 +74,14 @@ html, body {
   background-color: #fff;
   margin: 10px;
 }
+
+.box2Img {
+  width: 180px;
+  height: auto;
+  margin: 10px;
+}
+
+.box2Title {
+  font-size: 20px;
+  font-weight: 500;
+}
