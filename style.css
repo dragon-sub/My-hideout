@@ -65,7 +65,7 @@ html, body {
   display: flex;
   text-align: center;
   justify-content: center;
-  max-width: 960px;
+  max-width: 970px;
   margin: 0 auto;
   flex-wrap: wrap;
 }
