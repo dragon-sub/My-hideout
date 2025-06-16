@@ -72,6 +72,6 @@ html, body {
   border: 2px solid #ff9999;
   margin: 10px;
   background-color: #fff;
-  display: flex;
+  margin: 0 auto;
   justify-content: center;
 }
