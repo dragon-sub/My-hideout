@@ -63,6 +63,7 @@ html, body {
 .box2Enc {
   margin: 0 auto;
   display: flex;
+  text-align: center;
 }
 
 .box2 {
