@@ -97,3 +97,23 @@ html, body {
 .link:hover {
   color: #ff7878;
 }
+
+.flex {
+  display: flex;
+}
+
+.left {
+  text-align: left;
+  font-size: 20px;
+  width: 50vw;
+  height: auto;
+  padding-right: 10px;
+}
+
+.right {
+  text-align: right;
+  font-size: 20px;
+  width: 50vw;
+  height: auto;
+  padding-left: 10px;
+}
