@@ -98,6 +98,10 @@ html, body {
   color: #ff7878;
 }
 
+a {
+  text-decoration: none;
+}
+
 .flex {
   display: flex;
   margin: 0;
