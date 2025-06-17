@@ -87,3 +87,13 @@ html, body {
   font-size: 20px;
   font-weight: 500;
 }
+
+.link {
+  text-decoration: none;
+  color: #000;
+  transition: color 0.3s ease;
+}
+
+.link:hover {
+  color: #ff7878;
+}
